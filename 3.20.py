@@ -11,3 +11,4 @@ def find_first_non_prime(lst):
 print(find_first_non_prime([2,3,4,7]))
 print(find_first_non_prime([2,3,5,7]))
 print(find_first_non_prime([2,3,51,19]))
+mıofıor
