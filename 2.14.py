@@ -6,7 +6,6 @@ count2 = 1
 count = 1
 i = 0
 while i < n:
-    
     temp = lst[i]
     for j in range(i+1,n):
         if lst[j] == temp:
