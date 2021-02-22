@@ -23,4 +23,4 @@ while i < n:
 for i in result:
     print(i, end='')
 
-print("hey bre")
+print("furkan")
