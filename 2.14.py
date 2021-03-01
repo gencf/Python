@@ -22,4 +22,4 @@ while i < n:
 for i in result:
     print(i, end='')
 
-print("furkan genc")
+print("furkan genc      ")
